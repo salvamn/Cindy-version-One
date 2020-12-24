@@ -10,9 +10,9 @@ Esta aplicacion es un asistente de voz como tambien puede funcionar sin hablarle
   <ul>reconocimiento de voz: Speech Recognition y Pyaudio <a href='https://pypi.org/project/SpeechRecognition'>Link</a></ul>
   <ul>Interfaz: Tkinter</ul>
   <ul>Imagenes: Pil</ul>
-  <ul>Musica: Mixer de Pygame <a href'https://www.pygame.org/docs/ref/music.html#pygame.mixer.music.get_busy'>Link</a></ul>
+  <ul>Musica: Mixer de Pygame <a href='https://www.pygame.org/docs/ref/music.html#pygame.mixer.music.get_busy'>Link</a></ul>
   <ul>Para acceder a directorios y abri programas: subprocess y getpass </ul>
-  <ul>Voz de Cindy: pyttsx3</ul>
+  <ul>Voz de Cindy: pyttsx3 <a href='https://pypi.org/project/pyttsx3/'>Link</a></ul>
   <ul>Ejecucion simultanea: Threading</ul>
 </ol>  
   
