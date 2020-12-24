@@ -7,7 +7,7 @@ Esta aplicacion es un asistente de voz como tambien puede funcionar sin hablarle
 <h2> Librerias Usadas </h2>
 
 <ol>
-  <ul>reconocimiento de voz: Speech Recognition y Pyaudio</ul>
+  <ul>reconocimiento de voz: Speech Recognition y Pyaudio <a href='https://pypi.org/project/SpeechRecognition'>Link</a></ul>
   <ul>Interfaz: Tkinter</ul>
   <ul>Imagenes: Pil</ul>
   <ul>Musica: Mixer de Pygame</ul>
