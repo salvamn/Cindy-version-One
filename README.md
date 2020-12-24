@@ -2,7 +2,7 @@
 
 <h1> Cindy Asistente Virtual </h1>
 
-Esta aplicacion es un asistente de voz como tambien puede funcionar sin hablarle, de momento se encuentra en su primera version.
+Esta aplicacion es un asistente de voz como tambien puede funcionar sin hablarle, de momento se encuentra en su primera version, todos el codigo esta en un unico script y se espera en las proximas versiones separar el codigo en distintos scripts.
 
 <h2> Librerias Usadas </h2>
 
