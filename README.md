@@ -23,7 +23,7 @@ Esta aplicacion es un asistente de voz como tambien puede funcionar sin hablarle
 
 <h2> Como funciona Cindy </h2>
 
-<p>
+
   Lo primero que se debe hacer es instalar la libreria Pyaudio, esta libreria se instala mediante `pip install pyaudio`
   
-</p>
+
